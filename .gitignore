@@ -1,0 +1,10 @@
+node_modules
+session
+.npm
+.cache
+yarn.lock
+database
+
+# ignore tmp
+/tmp/*
+!/tmp/.nomedia

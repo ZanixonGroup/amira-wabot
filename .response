@@ -1,0 +1,644 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "hits": [
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 15,
+          "api_path": "/songs/2332455",
+          "artist_names": "Adele",
+          "full_title": "Hello by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/e7de8aadc81bfe774a7bb5393c29044d.300x300x1.png",
+          "header_image_url": "https://images.genius.com/e7de8aadc81bfe774a7bb5393c29044d.1000x1000x1.png",
+          "id": 2332455,
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Adele-hello-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 260,
+          "relationships_index_url": "https://genius.com/Adele-hello-sample",
+          "release_date_components": {
+            "year": 2015,
+            "month": 10,
+            "day": 23
+          },
+          "release_date_for_display": "October 23, 2015",
+          "release_date_with_abbreviated_month_for_display": "Oct. 23, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/e7de8aadc81bfe774a7bb5393c29044d.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/e7de8aadc81bfe774a7bb5393c29044d.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 5601500
+          },
+          "title": "Hello",
+          "title_with_featured": "Hello",
+          "url": "https://genius.com/Adele-hello-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/7260084",
+          "artist_names": "Adele",
+          "full_title": "Easy On Me by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/9bc5d6d9f2370a840f9dc6dc63cb7ddf.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/9bc5d6d9f2370a840f9dc6dc63cb7ddf.953x953x1.jpg",
+          "id": 7260084,
+          "lyrics_owner_id": 3489629,
+          "lyrics_state": "complete",
+          "path": "/Adele-easy-on-me-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 157,
+          "relationships_index_url": "https://genius.com/Adele-easy-on-me-sample",
+          "release_date_components": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+          },
+          "release_date_for_display": "October 15, 2021",
+          "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/9bc5d6d9f2370a840f9dc6dc63cb7ddf.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/9bc5d6d9f2370a840f9dc6dc63cb7ddf.953x953x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 2902688
+          },
+          "title": "Easy On Me",
+          "title_with_featured": "Easy On Me",
+          "url": "https://genius.com/Adele-easy-on-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 21,
+          "api_path": "/songs/61289",
+          "artist_names": "Adele",
+          "full_title": "Rolling in the Deep by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/a9fa6bfb946e5ecde0d63fe20073d5c7.300x300x1.png",
+          "header_image_url": "https://images.genius.com/a9fa6bfb946e5ecde0d63fe20073d5c7.1000x1000x1.png",
+          "id": 61289,
+          "lyrics_owner_id": 56449,
+          "lyrics_state": "complete",
+          "path": "/Adele-rolling-in-the-deep-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 155,
+          "relationships_index_url": "https://genius.com/Adele-rolling-in-the-deep-sample",
+          "release_date_components": {
+            "year": 2010,
+            "month": 11,
+            "day": 29
+          },
+          "release_date_for_display": "November 29, 2010",
+          "release_date_with_abbreviated_month_for_display": "Nov. 29, 2010",
+          "song_art_image_thumbnail_url": "https://images.genius.com/a9fa6bfb946e5ecde0d63fe20073d5c7.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/a9fa6bfb946e5ecde0d63fe20073d5c7.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 5,
+            "concurrents": 13,
+            "hot": false,
+            "pageviews": 2795840
+          },
+          "title": "Rolling in the Deep",
+          "title_with_featured": "Rolling in the Deep",
+          "url": "https://genius.com/Adele-rolling-in-the-deep-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 6,
+          "api_path": "/songs/51294",
+          "artist_names": "Adele",
+          "full_title": "Someone Like You by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/48caff7f3cd18b4f4e9b2db1baf3d576.300x300x1.png",
+          "header_image_url": "https://images.genius.com/48caff7f3cd18b4f4e9b2db1baf3d576.1000x1000x1.png",
+          "id": 51294,
+          "lyrics_owner_id": 19432,
+          "lyrics_state": "complete",
+          "path": "/Adele-someone-like-you-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 223,
+          "relationships_index_url": "https://genius.com/Adele-someone-like-you-sample",
+          "release_date_components": {
+            "year": 2011,
+            "month": 1,
+            "day": 24
+          },
+          "release_date_for_display": "January 24, 2011",
+          "release_date_with_abbreviated_month_for_display": "Jan. 24, 2011",
+          "song_art_image_thumbnail_url": "https://images.genius.com/48caff7f3cd18b4f4e9b2db1baf3d576.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/48caff7f3cd18b4f4e9b2db1baf3d576.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 2218019
+          },
+          "title": "Someone Like You",
+          "title_with_featured": "Someone Like You",
+          "url": "https://genius.com/Adele-someone-like-you-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 6,
+          "api_path": "/songs/62493",
+          "artist_names": "Adele",
+          "full_title": "Set Fire to the Rain by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/d33c956e52baece740fcad448281c3d6.300x300x1.png",
+          "header_image_url": "https://images.genius.com/d33c956e52baece740fcad448281c3d6.1000x1000x1.png",
+          "id": 62493,
+          "lyrics_owner_id": 53179,
+          "lyrics_state": "complete",
+          "path": "/Adele-set-fire-to-the-rain-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 107,
+          "relationships_index_url": "https://genius.com/Adele-set-fire-to-the-rain-sample",
+          "release_date_components": {
+            "year": 2011,
+            "month": 1,
+            "day": 24
+          },
+          "release_date_for_display": "January 24, 2011",
+          "release_date_with_abbreviated_month_for_display": "Jan. 24, 2011",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d33c956e52baece740fcad448281c3d6.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/d33c956e52baece740fcad448281c3d6.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 2315785
+          },
+          "title": "Set Fire to the Rain",
+          "title_with_featured": "Set Fire to the Rain",
+          "url": "https://genius.com/Adele-set-fire-to-the-rain-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 52,
+          "api_path": "/songs/4606781",
+          "artist_names": "Lil Mosey",
+          "full_title": "Blueberry Faygo by Lil Mosey",
+          "header_image_thumbnail_url": "https://images.genius.com/d1a0227cb2b21542f624aba267980914.300x300x1.png",
+          "header_image_url": "https://images.genius.com/d1a0227cb2b21542f624aba267980914.1000x1000x1.png",
+          "id": 4606781,
+          "lyrics_owner_id": 7393793,
+          "lyrics_state": "complete",
+          "path": "/Lil-mosey-blueberry-faygo-lyrics",
+          "primary_artist_names": "Lil Mosey",
+          "pyongs_count": 126,
+          "relationships_index_url": "https://genius.com/Lil-mosey-blueberry-faygo-sample",
+          "release_date_components": {
+            "year": 2020,
+            "month": 2,
+            "day": 7
+          },
+          "release_date_for_display": "February 7, 2020",
+          "release_date_with_abbreviated_month_for_display": "Feb. 7, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d1a0227cb2b21542f624aba267980914.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/d1a0227cb2b21542f624aba267980914.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 41,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 1647725
+          },
+          "title": "Blueberry Faygo",
+          "title_with_featured": "Blueberry Faygo",
+          "url": "https://genius.com/Lil-mosey-blueberry-faygo-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1092626",
+            "header_image_url": "https://images.genius.com/4ebaf883b89d4075e5cc27546acda6d4.1000x667x1.png",
+            "id": 1092626,
+            "image_url": "https://images.genius.com/89dc771eeb6e64d9df515e4939b5811c.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Mosey",
+            "url": "https://genius.com/artists/Lil-mosey",
+            "iq": 4250
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/1092626",
+              "header_image_url": "https://images.genius.com/4ebaf883b89d4075e5cc27546acda6d4.1000x667x1.png",
+              "id": 1092626,
+              "image_url": "https://images.genius.com/89dc771eeb6e64d9df515e4939b5811c.640x640x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Lil Mosey",
+              "url": "https://genius.com/artists/Lil-mosey",
+              "iq": 4250
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 13,
+          "api_path": "/songs/81668",
+          "artist_names": "Johnny Cash",
+          "full_title": "Folsom Prison Blues by Johnny Cash",
+          "header_image_thumbnail_url": "https://images.genius.com/7cf0605283614812b74f29eecad085cd.300x300x1.png",
+          "header_image_url": "https://images.genius.com/7cf0605283614812b74f29eecad085cd.300x300x1.png",
+          "id": 81668,
+          "lyrics_owner_id": 48951,
+          "lyrics_state": "complete",
+          "path": "/Johnny-cash-folsom-prison-blues-lyrics",
+          "primary_artist_names": "Johnny Cash",
+          "pyongs_count": 27,
+          "relationships_index_url": "https://genius.com/Johnny-cash-folsom-prison-blues-sample",
+          "release_date_components": {
+            "year": 1955,
+            "month": 12,
+            "day": 15
+          },
+          "release_date_for_display": "December 15, 1955",
+          "release_date_with_abbreviated_month_for_display": "Dec. 15, 1955",
+          "song_art_image_thumbnail_url": "https://images.genius.com/7cf0605283614812b74f29eecad085cd.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/7cf0605283614812b74f29eecad085cd.300x300x1.png",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 1461792
+          },
+          "title": "Folsom Prison Blues",
+          "title_with_featured": "Folsom Prison Blues",
+          "url": "https://genius.com/Johnny-cash-folsom-prison-blues-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1167",
+            "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+            "id": 1167,
+            "image_url": "https://images.genius.com/8224b091329111c50fbe9070d5d23ea3.736x736x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Johnny Cash",
+            "url": "https://genius.com/artists/Johnny-cash"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/1167",
+              "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+              "id": 1167,
+              "image_url": "https://images.genius.com/8224b091329111c50fbe9070d5d23ea3.736x736x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Johnny Cash",
+              "url": "https://genius.com/artists/Johnny-cash"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 31,
+          "api_path": "/songs/715833",
+          "artist_names": "Action Bronson (Ft. Chance the Rapper)",
+          "full_title": "Baby Blue by Action Bronson (Ft. Chance the Rapper)",
+          "header_image_thumbnail_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.300x300x1.jpg",
+          "header_image_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.800x800x1.jpg",
+          "id": 715833,
+          "lyrics_owner_id": 94012,
+          "lyrics_state": "complete",
+          "path": "/Action-bronson-baby-blue-lyrics",
+          "primary_artist_names": "Action Bronson",
+          "pyongs_count": 298,
+          "relationships_index_url": "https://genius.com/Action-bronson-baby-blue-sample",
+          "release_date_components": {
+            "year": 2015,
+            "month": 3,
+            "day": 2
+          },
+          "release_date_for_display": "March 2, 2015",
+          "release_date_with_abbreviated_month_for_display": "Mar. 2, 2015",
+          "song_art_image_thumbnail_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.300x300x1.jpg",
+          "song_art_image_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.800x800x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1456489
+          },
+          "title": "Baby Blue",
+          "title_with_featured": "Baby Blue (Ft. Chance the Rapper)",
+          "url": "https://genius.com/Action-bronson-baby-blue-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/16751",
+              "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+              "id": 16751,
+              "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Chance the Rapper",
+              "url": "https://genius.com/artists/Chance-the-rapper",
+              "iq": 49489
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/12404",
+            "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+            "id": 12404,
+            "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Action Bronson",
+            "url": "https://genius.com/artists/Action-bronson",
+            "iq": 10727
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/12404",
+              "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+              "id": 12404,
+              "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Action Bronson",
+              "url": "https://genius.com/artists/Action-bronson",
+              "iq": 10727
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 10,
+          "api_path": "/songs/4311141",
+          "artist_names": "Blueface (Ft. Cardi B)",
+          "full_title": "Thotiana (Cardi B Remix) by Blueface (Ft. Cardi B)",
+          "header_image_thumbnail_url": "https://images.genius.com/04753ae2d630d34ab5e3dfc212470924.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/04753ae2d630d34ab5e3dfc212470924.1000x1000x1.jpg",
+          "id": 4311141,
+          "lyrics_owner_id": 1532287,
+          "lyrics_state": "complete",
+          "path": "/Blueface-thotiana-cardi-b-remix-lyrics",
+          "primary_artist_names": "Blueface",
+          "pyongs_count": 47,
+          "relationships_index_url": "https://genius.com/Blueface-thotiana-cardi-b-remix-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 2,
+            "day": 16
+          },
+          "release_date_for_display": "February 16, 2019",
+          "release_date_with_abbreviated_month_for_display": "Feb. 16, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/04753ae2d630d34ab5e3dfc212470924.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/04753ae2d630d34ab5e3dfc212470924.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 3,
+            "hot": false,
+            "pageviews": 1422991
+          },
+          "title": "Thotiana (Cardi B Remix)",
+          "title_with_featured": "Thotiana (Cardi B Remix) (Ft. Cardi B)",
+          "url": "https://genius.com/Blueface-thotiana-cardi-b-remix-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/621678",
+              "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+              "id": 621678,
+              "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+              "is_meme_verified": true,
+              "is_verified": true,
+              "name": "Cardi B",
+              "url": "https://genius.com/artists/Cardi-b",
+              "iq": 1313
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1195330",
+            "header_image_url": "https://images.genius.com/079cac5f37a18a24a2a34d1707b0edd8.801x1000x1.jpg",
+            "id": 1195330,
+            "image_url": "https://images.genius.com/265da60a7224ca77b070634b6ed14306.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Blueface",
+            "url": "https://genius.com/artists/Blueface",
+            "iq": 3981
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/1195330",
+              "header_image_url": "https://images.genius.com/079cac5f37a18a24a2a34d1707b0edd8.801x1000x1.jpg",
+              "id": 1195330,
+              "image_url": "https://images.genius.com/265da60a7224ca77b070634b6ed14306.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Blueface",
+              "url": "https://genius.com/artists/Blueface",
+              "iq": 3981
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 11,
+          "api_path": "/songs/2336628",
+          "artist_names": "Adele",
+          "full_title": "When We Were Young by Adele",
+          "header_image_thumbnail_url": "https://images.genius.com/e6faa0fdfaef3ba3d1698850fb525397.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/e6faa0fdfaef3ba3d1698850fb525397.1000x1000x1.jpg",
+          "id": 2336628,
+          "lyrics_owner_id": 104344,
+          "lyrics_state": "complete",
+          "path": "/Adele-when-we-were-young-lyrics",
+          "primary_artist_names": "Adele",
+          "pyongs_count": 95,
+          "relationships_index_url": "https://genius.com/Adele-when-we-were-young-sample",
+          "release_date_components": {
+            "year": 2015,
+            "month": 11,
+            "day": 20
+          },
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/e6faa0fdfaef3ba3d1698850fb525397.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/e6faa0fdfaef3ba3d1698850fb525397.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 1327996
+          },
+          "title": "When We Were Young",
+          "title_with_featured": "When We Were Young",
+          "url": "https://genius.com/Adele-when-we-were-young-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2300",
+            "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+            "id": 2300,
+            "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adele",
+            "url": "https://genius.com/artists/Adele"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2300",
+              "header_image_url": "https://images.genius.com/87aa5d8c32965a10e0e7ad1acb54ba40.1000x287x6.gif",
+              "id": 2300,
+              "image_url": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Adele",
+              "url": "https://genius.com/artists/Adele"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
